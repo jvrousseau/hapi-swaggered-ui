@@ -28,7 +28,7 @@
     "inert": "^3.0.1",
     "joi": "^6.6.1",
     "lodash": "^3.10.0",
-    "swagger-ui": "2.1.2",
+    "swagger-ui": "https://github.com/jensoleg/swagger-ui",
     "vision": "^3.0.0"
   },
   "devDependencies": {
